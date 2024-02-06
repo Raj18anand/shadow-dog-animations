@@ -1,6 +1,9 @@
 # [Shadow Dog Animations](https://raj18anand.github.io/shadow-dog-animations/)
 ## _Different kind of animations with different speed_
 
+![shadow-dog-animation](https://github.com/Raj18anand/shadow-dog-animations/assets/55773147/7fe583e9-6f18-4968-bc3e-2af3a788d1a4)
+
+
 Build with HTML/CSS and pure vanilla Javascript
 
 The HTML <canvas> element is used to draw graphics via JavaScript. The <canvas> element is only a container for graphics.
